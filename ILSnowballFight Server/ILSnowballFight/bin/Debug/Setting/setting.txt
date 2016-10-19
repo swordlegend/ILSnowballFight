@@ -1,0 +1,2 @@
+﻿Port=15128
+SQLite=data.sqlite3

@@ -1,0 +1,15 @@
+C:\Users\Hiro\Documents\Git\ILSnowballFight\ILSnowballFight\ILSnowballFight\bin\Debug\ILSnowballFight.exe.config
+C:\Users\Hiro\Documents\Git\ILSnowballFight\ILSnowballFight Server\ILSnowballFight\bin\Debug\ILSnowballFight.exe.config
+C:\Users\Hiro\Documents\Git\ILSnowballFight\ILSnowballFight Server\ILSnowballFight\bin\Debug\ILSnowballFight.exe
+C:\Users\Hiro\Documents\Git\ILSnowballFight\ILSnowballFight Server\ILSnowballFight\bin\Debug\ILSnowballFight.pdb
+C:\Users\Hiro\Documents\Git\ILSnowballFight\ILSnowballFight Server\ILSnowballFight\bin\Debug\Lidgren.Network.dll
+C:\Users\Hiro\Documents\Git\ILSnowballFight\ILSnowballFight Server\ILSnowballFight\bin\Debug\protobuf-net.dll
+C:\Users\Hiro\Documents\Git\ILSnowballFight\ILSnowballFight Server\ILSnowballFight\bin\Debug\UnityEngine.dll
+C:\Users\Hiro\Documents\Git\ILSnowballFight\ILSnowballFight Server\ILSnowballFight\bin\Debug\Lidgren.Network.pdb
+C:\Users\Hiro\Documents\Git\ILSnowballFight\ILSnowballFight Server\ILSnowballFight\bin\Debug\Lidgren.Network.xml
+C:\Users\Hiro\Documents\Git\ILSnowballFight\ILSnowballFight Server\ILSnowballFight\bin\Debug\protobuf-net.pdb
+C:\Users\Hiro\Documents\Git\ILSnowballFight\ILSnowballFight Server\ILSnowballFight\bin\Debug\protobuf-net.xml
+C:\Users\Hiro\Documents\Git\ILSnowballFight\ILSnowballFight Server\ILSnowballFight\bin\Debug\UnityEngine.xml
+C:\Users\Hiro\Documents\Git\ILSnowballFight\ILSnowballFight Server\ILSnowballFight\obj\Debug\ILSnowballFight.csprojResolveAssemblyReference.cache
+C:\Users\Hiro\Documents\Git\ILSnowballFight\ILSnowballFight Server\ILSnowballFight\obj\Debug\ILSnowballFight.exe
+C:\Users\Hiro\Documents\Git\ILSnowballFight\ILSnowballFight Server\ILSnowballFight\obj\Debug\ILSnowballFight.pdb
